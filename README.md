@@ -1,1 +1,1 @@
-# BuildSchool---CSS
+# BuildSchool-CSS
